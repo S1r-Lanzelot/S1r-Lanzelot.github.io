@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.... And I apparently don't have time to build it out. Look at my repos in the meantime.</p>
+</body>
+</html>
